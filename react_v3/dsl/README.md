@@ -15,3 +15,5 @@ ItemListing
 User Profile
 
 Checkout
+
+Slides: https://docs.google.com/presentation/d/1yMn7pCea2oSY-xJ5QbDkOCdSvw63rSWB2CQJU9qyKaQ/edit?usp=sharing
