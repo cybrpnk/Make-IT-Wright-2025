@@ -123,6 +123,16 @@ const handleLogin = () => {
   return (
     <div className="flex flex-col items-center p-5">
 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <Logo />
         <br />
         <h1 className="text-2xl font-bold">Login</h1>
