@@ -1,0 +1,5 @@
+Email,Name,Role,First Name,Last Name,Consortium IDs,Certification IDs,Institutional Identifier,Member ID
+haleem.developer@gmail.com,mhaleem,Member,Mustafa,Haleem,C-1;C-2;,X-1;,cardnumber1,M-1
+bailey.parkinson@test.com,bparkinson,Member,Bailey,Parkinson,C-1;,X-3;,cardnumber2,M-2
+bentino.poodle@test.com,bpoodle,Member,Bentino,Poodle,C-2;,X-2;,cardnumber3,M-3
+test.user@test.com,test,Member,Test,User,C-1;C-2;,X-1;X-2;X-3;,cardnumber,M-4

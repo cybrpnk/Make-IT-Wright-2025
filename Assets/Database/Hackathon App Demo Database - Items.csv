@@ -1,0 +1,9 @@
+Item ID,Organization ID,Item,Category,Description,Variant,Restrictions,Available,RequestedBy,Checkout Date,Due Date,Image URL
+I-1,O-1,Projector,Photo/Video,1080p Epson LCD Projector,,,No,,,,https://mediaserver.goepson.com/ImConvServlet/imconv/d6d3374eaa867b64813dfb975ad60646c71a5238/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=HC1080_top-headon_690x460
+I-2,O-2,Camera,Photo/Video,Canon T6i,,Photography Certification,Yes,,,,https://m.media-amazon.com/images/I/91nLjTNKRFL.jpg
+I-3,O-5,Camera,Photo/Video,Sony A7s II,,Photography Certification,Yes,,,,https://www.dpreview.com/articles/2383622612/hands-on-with-the-sony-a7s-ii
+I-4,O-2,Circular Saw,Woodshop,"7-1/2"" Blade",,Woodworking Certification,Yes,,,,"https://cdn.schoolspecialty.com/8e1545f0-0941-4414-903d-b0f100aefa9d/1328114_JPG%20Output.jpg?width=700&height=700&fit=bounds&canvas=700,700&bg-color=ffffff"
+I-5,O-2,SD Cards,Photo/Video,32GB UHS-I Sandisk SD Card,32GB,,Yes,,,,https://cdn.cs.1worldsync.com/syndication/feeds/sandisk/inline-content/E9/A12958216DBB15FFF85DEAB0E280B8EE94185255_ULTRAUHSISD32GB_gallery.png
+I-6,O-4,Sewing Machine,Sewing,Singer machine,,Sewing Certification,Yes,,,,https://www.singer.com/cdn/shop/files/1053690c398f3e1b3b092ea4d6f781c1da9c5028_942fcf21-9135-4441-8236-de166cca1320.jpg?v=1728441952&width=1000
+I-7,O-3,Photography Backdrop,Photo/Video,Supports included,Green Screen,,Yes,,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiYM6F-3YLBVmLc2vFFwYUru1Bp3iYC1VyZg&s
+I-8,O-3,Photography Backdrop,Photo/Video,No supports included,Black Screen,,Yes,,,,https://m.media-amazon.com/images/I/51H27W46b2L.jpg
