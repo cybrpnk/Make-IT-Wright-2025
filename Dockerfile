@@ -1,7 +1,7 @@
 # Use the official Node.js 20 image
 FROM node:20
 # Set working directory
-WORKDIR /app
+WORKDIR /react_v3/dsl
 # Copy package files
 COPY package*.json ./
 # Install dependencies
@@ -11,4 +11,4 @@ COPY . ./
 # Expose port 3000
 EXPOSE 3000
 # Command to run the app
-CMD ["node", "index.js"]
+CMD ["npm", "dev", "run"]
